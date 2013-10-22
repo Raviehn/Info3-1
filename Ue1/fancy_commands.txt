@@ -1,11 +1,11 @@
- alias    Create an alias •
+﻿ alias    Create an alias •
   apropos  Search Help manual pages (man -k)
   apt-get  Search for and install software packages (Debian/Ubuntu)
   aptitude Search for and install software packages (Debian/Ubuntu)
   aspell   Spell Checker
   awk      Find and Replace text, database sort/validate/index
 b
-  basename fdsgfdskgkldjgkldfklgjkdfjgkldfjgkjdfhdfjhjdfiohjkfdjkhdfijjjjjjjj
+  basename merge conflict
   bash     GNU Bourne-Again SHell 
   bc       Arbitrary precision calculator language 
   bg       Send to background
