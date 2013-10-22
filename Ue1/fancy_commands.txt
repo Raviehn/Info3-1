@@ -5,7 +5,7 @@
   aspell   Spell Checker
   awk      Find and Replace text, database sort/validate/index
 b
-  basename merge conflict
+  basename merge conflict2.0
   bash     GNU Bourne-Again SHell 
   bc       Arbitrary precision calculator language 
   bg       Send to background
